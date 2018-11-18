@@ -73,7 +73,7 @@ namespace TriSquare
             }
             else
             {
-                Console.WriteLine($"NO SUCH TRIANGLE");
+                Console.WriteLine("NO SUCH TRIANGLE");
             }
                        
         }
